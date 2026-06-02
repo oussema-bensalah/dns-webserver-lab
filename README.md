@@ -41,3 +41,20 @@ A local DNS and web server lab built from scratch on Ubuntu VMs using VirtualBox
 - OpenSSL
 - UFW
 - OpenSSH
+
+## Screenshots
+
+### DNS Resolution
+![DNS](screenshots/nslookup.png)
+
+### Website over HTTP
+![HTTP](screenshots/http.png)
+
+### Website over HTTPS
+![HTTPS](screenshots/https.png)
+
+### Firewall Rules
+![UFW](screenshots/ufw-status.png)
+
+### SSH Connection
+![SSH](screenshots/ssh.png)
